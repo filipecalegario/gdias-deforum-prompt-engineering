@@ -1,0 +1,8 @@
+"4":"https://www.cin.ufpe.br/~fcac/gdias/img05.jpeg",
+"107":"https://www.cin.ufpe.br/~fcac/gdias/img07.jpeg",
+"213":"https://www.cin.ufpe.br/~fcac/gdias/gdias06.jpeg",
+"327":"https://www.cin.ufpe.br/~fcac/gdias/img03.jpeg",
+"375":"https://www.cin.ufpe.br/~fcac/gdias/gdias02.jpeg",
+"417":"https://www.cin.ufpe.br/~fcac/gdias/img17.jpeg",
+"463":"https://www.cin.ufpe.br/~fcac/gdias/gdias03.jpeg",
+"522":"https://www.cin.ufpe.br/~fcac/gdias/img13.jpeg"
