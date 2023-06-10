@@ -1,3 +1,9 @@
 ffmpeg -i replicate-v0-bfldrya3lvbrtg2e7ts2uo34xi.mp4 -i WhatsApp\ Audio\ 2023-05-30\ at\ 20.13.11.mpeg -c:v copy -c:a aac -strict experimental output2.mp4
 ffmpeg -i WhatsApp\ Audio\ 2023-05-30\ at\ 20.13.11.mpeg -vn -ab 128k -ar 44100 -ac 2 locucao.mp3
 ffmpeg -i 20230609153622.mp4 -i locucao.mp3 -c:v copy -c:a aac -strict experimental output3.mp4
+ffmpeg -i 20230610151049.mp4 -i locucao_60_mixdown.mp3 -c:v copy -c:a aac -strict experimental 20230610151049_comaudio.mp4
+ffmpeg -i 20230610153411.mp4 -i locucao_60_mixdown.mp3 -c:v copy -c:a aac -strict experimental 20230610153411_comaudio.mp4
+ffmpeg -i 20230610171810.mp4 -i locucao_60_mixdown.mp3 -c:v copy -c:a aac -strict experimental 20230610171810_comaudio.mp4
+ffmpeg -i 20230610173553.mp4 -i locucao_60_mixdown.mp3 -c:v copy -c:a aac -strict experimental 20230610173553_comaudio.mp4
+ffmpeg -i 20230609162457.mp4 -i locucao_60_mixdown.mp3 -c:v copy -c:a aac -strict experimental 20230609162457_comaudio.mp4
+ffmpeg -i 20230610174924.mp4 -i locucao_60_mixdown.mp3 -c:v copy -c:a aac -strict experimental 20230610174924_comaudio.mp4
